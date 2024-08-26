@@ -1,0 +1,11 @@
+javascript bangla tutorial 7  how to add or concatenate strings
+=================================================================
+<!-- String Concatenation
+    string + string + var -->
+
+    For word space;  give a space before or after of quatation (" " )
+
+    <script>
+        var fullName = "Priya Prity";
+        document.write(fullName + " is my full name"); [ space is before is my full name of quatation]
+    </script> 
